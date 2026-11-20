@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1795201756 source:e:\ammar\c journey\c-test\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"debug_f.h"
+
+1795123752 e:\ammar\c journey\c-test\readline.h
+
+1795193821 source:e:\ammar\c journey\c-test\readline.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"readline.h"
+	"debug_f.h"
+
+1795201777 e:\ammar\c journey\c-test\debug_f.h
+
+1795204260 source:e:\ammar\c journey\c-test\f.c
+	<stdio.h>
+	"f.h"
+
+1795204278 e:\ammar\c journey\c-test\f.h
+	"struct.h"
+
+1795202423 e:\ammar\c journey\c-test\struct.h
+
